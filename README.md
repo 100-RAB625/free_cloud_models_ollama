@@ -1,4 +1,4 @@
-Run this Code on kaggle or Collab Enviornment with GPU Enabled!!!!!!!!
+Run this Code/ipynb file on kaggle or Collab Enviornment with GPU Enabled!!!!!!!!
 
 
 # free_cloud_models_ollama
